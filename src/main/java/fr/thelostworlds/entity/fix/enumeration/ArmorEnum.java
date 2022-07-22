@@ -1,4 +1,4 @@
 package fr.thelostworlds.entity.fix.enumeration;
 
-public class ArmorEnum {
+public enum ArmorEnum {
 }
