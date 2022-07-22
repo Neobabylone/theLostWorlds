@@ -1,4 +1,6 @@
 package fr.thelostworlds.entity.fix.enumeration;
 
 public enum WeaponEnum {
+
+    DAGGER,SWORD,GREATSWORD,AXE,WARAXE,HAMMER,WARHAMMER,SPEAR,LONGSPEAR,STAFF,POLEARM,SHORTBOW,LONGBOW,CROSSBOW
 }
